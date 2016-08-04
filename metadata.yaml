@@ -1,0 +1,31 @@
+_repo: When-a-Man-Marries_1671
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Rinehart, Mary Roberts
+    birthdate: 1876
+    deathdate: 1958
+    gutenberg_agent_id: '183'
+    url: http://www.gutenberg.org/2009/agents/183
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Roberts_Rinehart
+description: This delightful comedy of errors tells the story of a bunch of society
+  types who become sequestered together for a week when the house they are visiting
+  is put under quarantine for smallpox. There are characters posing as a couple to
+  placate a nosy aunt; missing jewels; and guests who consider it a struggle to survive
+  a week without servants. A witty romp full of hilarious twists and turns.
+gutenberg_bookshelf: Bestsellers, American, 1895-1923
+gutenberg_issued: '1999-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1671'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Quarantine -- Fiction'
+- !lcsh 'Marriage -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: When a Man Marries
+url: http://www.gutenberg.org/ebooks/1671
